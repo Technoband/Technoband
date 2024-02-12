@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/yashrajzope143" target="blank"><img src="https://img.shields.io/twitter/follow/yashrajzope143?logo=twitter&style=for-the-badge" alt="yashrajzope143" /></a> </p>
 
-- 🔭 I’m currently working on **ANPR(Automobile Number plate recognition))**
+- 🔭 I’m currently working on **My Coding Skills**
 
-- 🌱 I’m currently learning **YOLO v8,seaborn.**
+- 🌱 I’m currently learning **Advanced Python, C++(DSA)**
 
 - 👯 I’m looking to collaborate on **APMS(Advance parking management system))**
 
